@@ -1,4 +1,4 @@
-### Well hey there, Spotify!
+### Well hey there, Spotify! <img src="https://user-images.githubusercontent.com/84453243/118830755-2d9b8b00-b88d-11eb-8ebb-d1381e897b7f.png" width="20%" height="20%">
 - 👋 Hi, I’m Will Del Santo
 - 👀 I’m interested in music and psychology
 - 🌱 I’m currently researching educational programs, the effects of music on the brain, and the explanatory gap! I am also learning how to master GitHub and coding!
